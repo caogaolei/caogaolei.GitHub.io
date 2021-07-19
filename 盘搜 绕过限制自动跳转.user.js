@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         盘搜 绕过限制自动跳转
+// @name         网盘资源搜索 提取码查询 等多功能综合脚本
 // @namespace    http://tampermonkey.net/
-// @version      3.1415926535
+// @version      4.0
 // @description  功能概述：【[1]：[百度.蓝奏.天翼.阿里.慢慢增加]等网盘页面增加资源搜索平台的快捷方式】【[2]：在各个搜索平台页一路辅助跳转到目标网盘并直达文件页面】【[3]：访问过的分享链接和密码自动记忆】
-// @author       You
+// @author       【有意见或建议联系 gaoleicao@qq.com】
 // @match        *://pan.baidu.com/*
 // @match        *://yun.baidu.com/*
 // @match        *://cloud.189.cn/*
